@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/luis/Documentos/embarcados/pcs3x58-embedded-systems/head-mounted-sensors/src/9dof.cc
+cmath
+-
+iostream
+-
+time.h
+-
+RTIMULib.h
+-
+9dof.hh
+/home/luis/Documentos/embarcados/pcs3x58-embedded-systems/head-mounted-sensors/src/9dof.hh
+
+/home/luis/Documentos/embarcados/pcs3x58-embedded-systems/head-mounted-sensors/src/9dof.hh
+time.h
+-
+RTIMULib.h
+-
+
+/home/luis/Documentos/embarcados/pcs3x58-embedded-systems/head-mounted-sensors/src/main.cc
+chrono
+-
+iostream
+-
+thread
+-
+unistd.h
+-
+opencv2/opencv.hpp
+-
+librealsense/rs.hpp
+-
+9dof.hh
+/home/luis/Documentos/embarcados/pcs3x58-embedded-systems/head-mounted-sensors/src/9dof.hh
+serial.h
+/home/luis/Documentos/embarcados/pcs3x58-embedded-systems/head-mounted-sensors/src/serial.h
+
+/home/luis/Documentos/embarcados/pcs3x58-embedded-systems/head-mounted-sensors/src/serial.h
+

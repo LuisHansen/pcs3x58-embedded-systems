@@ -1,0 +1,3 @@
+/home/luis/Documentos/embarcados/pcs3x58-embedded-systems/head-mounted-sensors/CMakeFiles/rebuild_cache.dir
+/home/luis/Documentos/embarcados/pcs3x58-embedded-systems/head-mounted-sensors/CMakeFiles/pimpolho.dir
+/home/luis/Documentos/embarcados/pcs3x58-embedded-systems/head-mounted-sensors/CMakeFiles/edit_cache.dir
